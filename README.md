@@ -1,6 +1,8 @@
 # 01-05-02-school-enrollment
 Iskolai felvételi
 
+![UML diagram](https://github.com/csarp-dotnet-core-oop-task/01-05-02-school-enrollment/blob/main/uml.png "UML diagram")
+
 Teszt kód
 ```
 PointSummary josephTakenScore=new PointSummary(83,94);
